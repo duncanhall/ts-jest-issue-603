@@ -1,6 +1,6 @@
-# Exaxmple repo for ts-jest issue #603
+# Exaxmple repo for [ts-jest issue #603](https://github.com/kulshekhar/ts-jest/issues/603)
 
-This repo provides the minimum possible setup for reproducing ts-jest issue #603
+This repo provides the minimum possible setup for reproducing [ts-jest issue #603](https://github.com/kulshekhar/ts-jest/issues/603)
 
 ### Run the tests 
 
