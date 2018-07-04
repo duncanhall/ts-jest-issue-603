@@ -1,0 +1,25 @@
+{
+  "name": "paradino-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start-js": "react-scripts-ts start",
+    "build-js": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^21.1.8",
+    "@types/node": "^8.0.53",
+    "@types/react": "^16.0.25",
+    "jest": "23.2.0",
+    "react-addons-test-utils": "^15.6.2",
+    "ts-jest": "23.0.0",
+    "tslint": "^5.10.0",
+    "typescript": "^2.7.2"
+  }
+}
